@@ -1,4 +1,4 @@
 # apna-collage
-<b>Hi<b/>, <br> <i>how are you?</i>
+<h1>Hi<h1/>, <br> <i>how are you?</i>
 
 
